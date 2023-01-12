@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digital Maps</string>
+    <string name="google_map_key">AIzaSyAzrIL2AdWxjyl3via__o8l704624sz1mM</string>
+    <string name="google_map_keys">AIzaSyAQPGbwzAuQoBT1IyPgXwzP86Vh80gWsSU</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959060256260",
+    "project_id": "finalmap-332207",
+    "storage_bucket": "finalmap-332207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959060256260:android:25571cd15054d287e9f751",
+        "android_client_info": {
+          "package_name": "com.example.finalmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959060256260-kcnio744b9i2tq2091is4sgqgj6usi4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnmZety2eQzyITaLXp2KsdAHAP2DdUoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959060256260-kcnio744b9i2tq2091is4sgqgj6usi4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
